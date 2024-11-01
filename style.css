@@ -2,3 +2,8 @@ body {
     background-color: #fd4444;
     color: black;
 }
+
+header{
+    background-color: antiquewhite;
+    width: 100%;
+}
